@@ -1,11 +1,4 @@
-<<<<<<< HEAD
 remote_theme: pages-themes/midnight@v0.2.0
 plugins - jekyll-remote-theme
 title: Yuuuumoooo
 description: This is a github of Chen Yumo, a BMI student in ZJE.
-
-=======
-remote_theme: pages-themes/midnight@v0.2.0
-title: Yuuuumoooo
-description: This is a github of Chen Yumo, a BMI student in ZJE.
->>>>>>> 9ea5d698c79dee16ae897bb68712ac0881478973
